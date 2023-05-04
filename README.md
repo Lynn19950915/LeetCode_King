@@ -22,11 +22,11 @@ LeetCode 刷題日記，記錄我在解題的工具、思路，以及討論區�
     <tr>
         <td align="center"> Easy </td>
         <td align="center"> 2 </td>
-        <td align="center"> [點我](https://github.com/Lynn19950915/LeetCode_King/tree/main/Easy%20(2)) </td>
+        <td align="center"> <a href="https://github.com/Lynn19950915/LeetCode_King/tree/main/Easy%20(2)">[點我]</a> </td>
     </tr>
     <tr>
         <td align="center"> Tags </td>
         <td align="center"> - </td>
-        <td align="center"> [點我](https://github.com/Lynn19950915/LeetCode_King/tree/main/Tags) </td>
+        <td align="center"> <a href="https://github.com/Lynn19950915/LeetCode_King/tree/main/Tags">[點我]</a> </td>
     </tr>
 </table>

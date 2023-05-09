@@ -26,13 +26,8 @@ LeetCode 刷題日記，記錄我在解題的工具、思路，以及討論區�
     </thead>
     <tr>
         <td align="center"> 難度：Easy </td>
-<<<<<<< HEAD
         <td align="center"> <b>8</b> </td>
         <td align="center"> <a href="https://github.com/Lynn19950915/LeetCode_King/tree/main/Easy">[點我]</a> </td>
-=======
-        <td align="center"> <b>5</b> </td>
-        <td align="center"> <a href="https://github.com/Lynn19950915/LeetCode_King/tree/main/Easy%20(5)">[點我]</a> </td>
->>>>>>> 730bc47df77fad26e19638876197e0c62cff40cc
     </tr>
     <tr>
         <td align="center"> 素材標籤－Tags </td>

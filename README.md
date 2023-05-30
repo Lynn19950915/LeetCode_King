@@ -26,12 +26,17 @@ LeetCode 刷題日記，記錄我在解題的工具、思路，以及討論區�
     </thead>
     <tr>
         <td align="center"> 難度：Easy </td>
-        <td align="center"> <b>29</b> </td>
+        <td align="center"> <b>31</b> </td>
         <td align="center"> <a href="https://github.com/Lynn19950915/LeetCode_King/tree/main/Easy">[點我]</a> </td>
     </tr>
     <tr>
         <td align="center"> 素材標籤－Tags </td>
         <td align="center"> － </td>
         <td align="center"> <a href="https://github.com/Lynn19950915/LeetCode_King/tree/main/Tags">[點我]</a> </td>
+    </tr>
+    <tr>
+        <td align="center"> 精選好題 </td>
+        <td align="center"> <b>3</b> </td>
+        <td align="center"> <a href="https://github.com/Lynn19950915/LeetCode_King/tree/main/Selection">[點我]</a> </td>
     </tr>
 </table>

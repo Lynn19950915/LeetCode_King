@@ -1,0 +1,812 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>解題集章本</title>
+	<meta http-equiv="Content-Type" content="text/html" charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="cache-control" content="no-cache">
+
+	<!-- Bootsrap 4 CDN -->
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    
+	<style>
+		/* BASIC */
+		html {
+			min-height: 100%;
+			font-family: Microsoft JhengHei; position: relative;
+		}
+		body {
+			padding-top: 25px; padding-bottom: 40px;
+		}
+
+		/* STRUCTURE */
+		.container {
+			width: 66%; margin: 25px auto;
+			align-content: center;
+		}  
+		.card {
+			border: 0.1em solid #E9CCD3;
+		}
+		.card-body {
+			margin: auto 43px; line-height: 60px; letter-spacing: 0.08em;
+			font-size: 1.35em; text-align: left;
+		}
+
+		/* DETEAILED */
+		.panel {
+			color: #000000;
+			-webkit-border-radius: 10px 10px 0px 0px; border-radius: 10px 10px 0px 0px;
+		}
+		.panel:hover, .panel:focus {
+			color: #E9CCD3;
+			background-color: #E9CCD3;
+		}
+		.done {
+			width: 60px; height: 60px; margin: 8px; border: 2px solid; border-radius: 8px;
+			display: inline-block; text-align: center;
+		}
+		.undone {
+			width: 60px; height: 60px; margin: 8px; border: 2px none;
+			color: gainsboro;
+			display: inline-block; text-align: center;
+		}
+		.lock {
+			width: 60px; height: 60px; margin: 8px; border-radius: 30px;
+			background-color: red; color: #FFFFFF;
+			display: inline-block; text-align: center;
+		}
+	</style>
+</head>
+
+<body>
+	<div class="container">
+		<ul class="nav justify-content-center" style="letter-spacing: 0.08em; padding-bottom: 10px">
+			<li class="nav-item">
+				<a class="nav-link panel active" data-toggle="tab" href="#page1" aria-controls="page1" aria-selected="true">1－500</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link panel" data-toggle="tab" href="#page2" aria-controls="page2" aria-selected="false">501－1000</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link panel" data-toggle="tab" href="#page3" aria-controls="page3" aria-selected="false">1001－1500</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link panel" data-toggle="tab" href="#page4" aria-controls="page4" aria-selected="false">1501－2000</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link panel" data-toggle="tab" href="#page5" aria-controls="page5" aria-selected="false">2001－2500</a>
+			</li>
+		</ul>
+		
+		<div class="tab-content">
+			<!-- 預設開啟 1-500 -->
+			<div id="page1" class="tab-pane show active" role="tabpanel">
+				<div class="card">
+					<div class="card-body">
+						<div style="text-align: right; margin-right: 10px">
+							<span style="background-color: #FFEF2F">✓＝0　🔒＝13　Σ＝117</span>
+						</div>
+						<div class="undone">1</div>
+						<div class="undone">9</div>
+						<div class="undone">13</div>
+						<div class="undone">14</div>
+						<div class="undone">20</div>
+						<div class="undone">21</div>
+						<div class="undone">26</div>
+						<div class="undone">27</div>
+						<div class="undone">28</div>
+						<div class="undone">35</div>
+
+						<div class="undone">58</div>
+						<div class="undone">66</div>
+						<div class="undone">67</div>
+						<div class="undone">69</div>
+						<div class="undone">70</div>
+						<div class="undone">83</div>
+						<div class="undone">88</div>
+						<div class="undone">94</div>
+						<div class="undone">100</div>
+						<div class="undone">101</div>
+
+						<div class="undone">104</div>
+						<div class="undone">108</div>
+						<div class="undone">110</div>
+						<div class="undone">111</div>
+						<div class="undone">112</div>
+						<div class="undone">118</div>
+						<div class="undone">119</div>
+						<div class="undone">121</div>
+						<div class="undone">125</div>
+						<div class="undone">136</div>
+
+						<div class="undone">141</div>
+						<div class="undone">144</div>
+						<div class="undone">145</div>
+						<div class="lock">157<sup><sup>!</sup></sup></div>
+						<div class="undone">160</div>
+						<div class="lock">163<sup><sup>!</sup></sup></div>
+						<div class="undone">168</div>
+						<div class="undone">169</div>
+						<div class="lock">170<sup><sup>!</sup></sup></div>
+						<div class="undone">171</div>
+						
+						<div class="undone">175</div>
+						<div class="undone">181</div>
+						<div class="undone">182</div>
+						<div class="undone">183</div>
+						<div class="undone">190</div>
+						<div class="undone">191</div>
+						<div class="undone">193</div>
+						<div class="undone">195</div>
+						<div class="undone">196</div>
+						<div class="undone">197</div>
+						
+						<div class="undone">202</div>
+						<div class="undone">203</div>
+						<div class="undone">205</div>
+						<div class="undone">206</div>
+						<div class="undone">217</div>
+						<div class="undone">219</div>
+						<div class="undone">222</div>
+						<div class="undone">225</div>
+						<div class="undone">226</div>
+						<div class="undone">228</div>
+						
+						<div class="undone">231</div>
+						<div class="undone">232</div>
+						<div class="undone">234</div>
+						<div class="undone">242</div>
+						<div class="lock">243<sup><sup>!</sup></sup></div>
+						<div class="lock">246<sup><sup>!</sup></sup></div>
+						<div class="lock">252<sup><sup>!</sup></sup></div>
+						<div class="undone">257</div>
+						<div class="undone">258</div>
+						<div class="undone">263</div>
+						
+						<div class="lock">266<sup><sup>!</sup></sup></div>
+						<div class="undone">268</div>
+						<div class="lock">270<sup><sup>!</sup></sup></div>
+						<div class="undone">278</div>
+						<div class="undone">283</div>
+						<div class="undone">290</div>
+						<div class="undone">292</div>
+						<div class="lock">293<sup><sup>!</sup></sup></div>
+						<div class="undone">303</div>
+						<div class="undone">326</div>
+						
+						<div class="undone">338</div>
+						<div class="undone">342</div>
+						<div class="undone">344</div>
+						<div class="undone">345</div>
+						<div class="lock">346<sup><sup>!</sup></sup></div>
+						<div class="undone">349</div>
+						<div class="undone">350</div>
+						<div class="lock">359<sup><sup>!</sup></sup></div>
+						<div class="undone">367</div>
+						<div class="undone">374</div>
+						
+						<div class="undone">383</div>
+						<div class="undone">387</div>
+						<div class="undone">389</div>
+						<div class="undone">392</div>
+						<div class="undone">401</div>
+						<div class="undone">404</div>
+						<div class="undone">405</div>
+						<div class="lock">408<sup><sup>!</sup></sup></div>
+						<div class="undone">409</div>
+						<div class="undone">412</div>
+						
+						<div class="undone">414</div>
+						<div class="undone">415</div>
+						<div class="lock">422<sup><sup>!</sup></sup></div>
+						<div class="undone">434</div>
+						<div class="undone">441</div>
+						<div class="undone">448</div>
+						<div class="undone">455</div>
+						<div class="undone">459</div>
+						<div class="undone">461</div>
+						<div class="undone">463</div>
+						
+						<div class="undone">476</div>
+						<div class="undone">482</div>
+						<div class="undone">485</div>
+						<div class="undone">492</div>
+						<div class="undone">495</div>
+						<div class="undone">496</div>
+						<div class="undone">500</div>
+					</div>
+				</div>
+			</div>
+			
+			<div id="page2" class="tab-pane show" role="tabpanel">
+				<div class="card">
+					<div class="card-body">
+						<div style="text-align: right; margin-right: 10px">
+							<span style="background-color: #FFEF2F">✓＝0　🔒＝8　Σ＝121</span>
+						</div>
+						<div class="undone">501</div>
+						<div class="undone">504</div>
+						<div class="undone">506</div>
+						<div class="undone">507</div>
+						<div class="undone">509</div>
+						<div class="undone">511</div>
+						<div class="lock">512<sup><sup>!</sup></sup></div>
+						<div class="undone">520</div>
+						<div class="undone">521</div>
+						<div class="undone">530</div>
+
+						<div class="undone">541</div>
+						<div class="undone">543</div>
+						<div class="undone">551</div>
+						<div class="undone">557</div>
+						<div class="undone">559</div>
+						<div class="undone">561</div>
+						<div class="undone">563</div>
+						<div class="undone">566</div>
+						<div class="undone">572</div>
+						<div class="undone">575</div>
+
+						<div class="undone">577</div>
+						<div class="undone">584</div>
+						<div class="undone">586</div>
+						<div class="undone">589</div>
+						<div class="undone">590</div>
+						<div class="undone">594</div>
+						<div class="undone">595</div>
+						<div class="undone">596</div>
+						<div class="lock">597<sup><sup>!</sup></sup></div>
+						<div class="undone">598</div>
+
+						<div class="undone">599</div>
+						<div class="lock">603<sup><sup>!</sup></sup></div>
+						<div class="lock">604<sup><sup>!</sup></sup></div>
+						<div class="undone">605</div>
+						<div class="undone">606</div>
+						<div class="undone">607</div>
+						<div class="undone">610</div>
+						<div class="lock">613<sup><sup>!</sup></sup></div>
+						<div class="undone">617</div>
+						<div class="undone">619</div>
+
+						<div class="undone">620</div>						
+						<div class="undone">627</div>
+						<div class="undone">628</div>
+						<div class="undone">637</div>
+						<div class="undone">643</div>
+						<div class="undone">645</div>
+						<div class="undone">653</div>
+						<div class="undone">657</div>
+						<div class="undone">661</div>
+						<div class="undone">671</div>
+						
+						<div class="undone">674</div>
+						<div class="undone">680</div>
+						<div class="undone">682</div>
+						<div class="undone">693</div>
+						<div class="undone">696</div>
+						<div class="undone">697</div>
+						<div class="undone">700</div>
+						<div class="undone">703</div>
+						<div class="undone">704</div>
+						<div class="undone">705</div>
+						
+						<div class="undone">706</div>
+						<div class="undone">709</div>
+						<div class="undone">717</div>
+						<div class="undone">724</div>
+						<div class="undone">728</div>
+						<div class="undone">733</div>
+						<div class="lock">734<sup><sup>!</sup></sup></div>
+						<div class="undone">744</div>
+						<div class="undone">746</div>
+						<div class="undone">747</div>
+						
+						<div class="undone">748</div>
+						<div class="lock">760<sup><sup>!</sup></sup></div>
+						<div class="undone">762</div>
+						<div class="undone">766</div>
+						<div class="undone">771</div>
+						<div class="undone">783</div>
+						<div class="undone">796</div>
+						<div class="lock">800<sup><sup>!</sup></sup></div>
+						<div class="undone">804</div>
+						<div class="undone">806</div>
+						
+						<div class="undone">812</div>
+						<div class="undone">819</div>
+						<div class="undone">821</div>
+						<div class="undone">824</div>
+						<div class="undone">830</div>
+						<div class="undone">832</div>
+						<div class="undone">836</div>
+						<div class="undone">844</div>
+						<div class="undone">859</div>
+						<div class="undone">860</div>
+						
+						<div class="undone">867</div>
+						<div class="undone">868</div>
+						<div class="undone">872</div>
+						<div class="undone">876</div>
+						<div class="undone">883</div>
+						<div class="undone">884</div>
+						<div class="undone">888</div>
+						<div class="undone">892</div>
+						<div class="undone">896</div>
+						<div class="undone">897</div>
+						
+						<div class="undone">905</div>
+						<div class="undone">908</div>
+						<div class="undone">914</div>
+						<div class="undone">917</div>
+						<div class="undone">922</div>
+						<div class="undone">925</div>
+						<div class="undone">929</div>
+						<div class="undone">933</div>
+						<div class="undone">938</div>
+						<div class="undone">941</div>
+						
+						<div class="undone">942</div>
+						<div class="undone">944</div>
+						<div class="undone">953</div>
+						<div class="undone">961</div>
+						<div class="undone">965</div>
+						<div class="undone">976</div>
+						<div class="undone">977</div>
+						<div class="undone">989</div>
+						<div class="undone">993</div>
+						<div class="undone">997</div>
+						
+						<div class="undone">999</div>
+					</div>
+				</div>
+			</div>
+			
+			<div id="page3" class="tab-pane show" role="tabpanel">
+				<div class="card">
+					<div class="card-body" style="font-size: 1.22em">
+						<div style="text-align: right; margin-right: 10px; font-size: 1.1em">
+							<span style="background-color: #FFEF2F">✓＝0　🔒＝39　Σ＝136</span>
+						</div>
+						<div class="undone">1002</div>
+						<div class="undone">1005</div>
+						<div class="undone">1009</div>
+						<div class="undone">1013</div>
+						<div class="undone">1018</div>
+						<div class="undone">1021</div>
+						<div class="undone">1022</div>
+						<div class="undone">1025</div>
+						<div class="undone">1030</div>
+						<div class="undone">1037</div>
+						
+						<div class="undone">1046</div>
+						<div class="undone">1047</div>
+						<div class="undone">1050</div>
+						<div class="undone">1051</div>
+						<div class="lock">1056<sup><sup>!</sup></sup></div>
+						<div class="lock">1064<sup><sup>!</sup></sup></div>
+						<div class="lock">1065<sup><sup>!</sup></sup></div>
+						<div class="undone">1068</div>
+						<div class="lock">1069<sup><sup>!</sup></sup></div>
+						<div class="undone">1071</div>
+						
+						<div class="undone">1075</div>
+						<div class="lock">1076<sup><sup>!</sup></sup></div>
+						<div class="undone">1078</div>
+						<div class="lock">1082<sup><sup>!</sup></sup></div>
+						<div class="lock">1083<sup><sup>!</sup></sup></div>
+						<div class="undone">1084</div>
+						<div class="lock">1085<sup><sup>!</sup></sup></div>
+						<div class="lock">1086<sup><sup>!</sup></sup></div>
+						<div class="undone">1089</div>
+						<div class="lock">1099<sup><sup>!</sup></sup></div>
+						
+						<div class="undone">1103</div>
+						<div class="undone">1108</div>
+						<div class="lock">1113<sup><sup>!</sup></sup></div>
+						<div class="undone">1114</div>
+						<div class="lock">1118<sup><sup>!</sup></sup></div>
+						<div class="lock">1119<sup><sup>!</sup></sup></div>
+						<div class="undone">1122</div>
+						<div class="undone">1128</div>
+						<div class="lock">1133<sup><sup>!</sup></sup></div>
+						<div class="lock">1134<sup><sup>!</sup></sup></div>
+						
+						<div class="undone">1137</div>
+						<div class="undone">1141</div>
+						<div class="lock">1142<sup><sup>!</sup></sup></div>
+						<div class="undone">1148</div>
+						<div class="lock">1150<sup><sup>!</sup></sup></div>
+						<div class="undone">1154</div>
+						<div class="undone">1160</div>
+						<div class="lock">1165<sup><sup>!</sup></sup></div>
+						<div class="lock">1173<sup><sup>!</sup></sup></div>
+						<div class="undone">1175</div>
+						
+						<div class="lock">1176<sup><sup>!</sup></sup></div>
+						<div class="undone">1179</div>
+						<div class="lock">1180<sup><sup>!</sup></sup></div>
+						<div class="undone">1184</div>
+						<div class="undone">1185</div>
+						<div class="undone">1189</div>
+						<div class="lock">1196<sup><sup>!</sup></sup></div>
+						<div class="undone">1200</div>
+						<div class="undone">1207</div>
+						<div class="undone">1211</div>
+						
+						<div class="lock">1213<sup><sup>!</sup></sup></div>
+						<div class="undone">1217</div>
+						<div class="undone">1221</div>
+						<div class="lock">1228<sup><sup>!</sup></sup></div>
+						<div class="undone">1232</div>
+						<div class="lock">1241<sup><sup>!</sup></sup></div>
+						<div class="lock">1243<sup><sup>!</sup></sup></div>
+						<div class="undone">1251</div>
+						<div class="undone">1252</div>
+						<div class="undone">1260</div>
+						
+						<div class="undone">1266</div>
+						<div class="lock">1271<sup><sup>!</sup></sup></div>
+						<div class="undone">1275</div>
+						<div class="lock">1279<sup><sup>!</sup></sup></div>
+						<div class="undone">1280</div>
+						<div class="undone">1281</div>
+						<div class="undone">1287</div>
+						<div class="undone">1290</div>
+						<div class="lock">1294<sup><sup>!</sup></sup></div>
+						<div class="undone">1295</div>
+						
+						<div class="undone">1299</div>
+						<div class="lock">1303<sup><sup>!</sup></sup></div>
+						<div class="undone">1304</div>
+						<div class="undone">1309</div>
+						<div class="undone">1313</div>
+						<div class="undone">1317</div>
+						<div class="lock">1322<sup><sup>!</sup></sup></div>
+						<div class="undone">1323</div>
+						<div class="undone">1327</div>
+						<div class="undone">1331</div>
+						
+						<div class="undone">1332</div>
+						<div class="undone">1337</div>
+						<div class="undone">1342</div>
+						<div class="undone">1346</div>
+						<div class="lock">1350<sup><sup>!</sup></sup></div>
+						<div class="undone">1351</div>
+						<div class="undone">1356</div>
+						<div class="undone">1360</div>
+						<div class="undone">1365</div>
+						<div class="undone">1370</div>
+						
+						<div class="undone">1374</div>
+						<div class="undone">1378</div>
+						<div class="undone">1379</div>
+						<div class="undone">1380</div>
+						<div class="undone">1385</div>
+						<div class="undone">1389</div>
+						<div class="undone">1394</div>
+						<div class="undone">1399</div>
+						<div class="undone">1403</div>
+						<div class="undone">1407</div>
+						
+						<div class="undone">1408</div>
+						<div class="undone">1413</div>
+						<div class="undone">1417</div>
+						<div class="lock">1421<sup><sup>!</sup></sup></div>
+						<div class="undone">1422</div>
+						<div class="lock">1426<sup><sup>!</sup></sup></div>
+						<div class="lock">1427<sup><sup>!</sup></sup></div>
+						<div class="undone">1431</div>
+						<div class="lock">1435<sup><sup>!</sup></sup></div>
+						<div class="undone">1436</div>
+						
+						<div class="undone">1437</div>
+						<div class="undone">1446</div>
+						<div class="undone">1450</div>
+						<div class="undone">1455</div>
+						<div class="undone">1460</div>
+						<div class="undone">1464</div>
+						<div class="lock">1469<sup><sup>!</sup></sup></div>
+						<div class="undone">1470</div>
+						<div class="lock">1474<sup><sup>!</sup></sup></div>
+						<div class="undone">1475</div>
+						
+						<div class="undone">1480</div>
+						<div class="undone">1484</div>
+						<div class="undone">1486</div>
+						<div class="undone">1491</div>
+						<div class="lock">1495<sup><sup>!</sup></sup></div>
+						<div class="undone">1496</div>
+					</div>
+				</div>
+			</div>
+			
+			<div id="page4" class="tab-pane show" role="tabpanel">
+				<div class="card">
+					<div class="card-body" style="font-size: 1.22em">
+						<div style="text-align: right; margin-right: 10px; font-size: 1.1em">
+							<span style="background-color: #FFEF2F">✓＝0　🔒＝15　Σ＝130</span>
+						</div>
+						<div class="undone">1502</div>
+						<div class="undone">1507</div>
+						<div class="lock">1511<sup><sup>!</sup></sup></div>
+						<div class="undone">1512</div>
+						<div class="undone">1517</div>
+						<div class="undone">1518</div>
+						<div class="undone">1523</div>
+						<div class="undone">1527</div>
+						<div class="undone">1528</div>
+						<div class="undone">1534</div>
+
+						<div class="undone">1539</div>
+						<div class="lock">1543<sup><sup>!</sup></sup></div>
+						<div class="undone">1544</div>
+						<div class="undone">1550</div>
+						<div class="undone">1556</div>
+						<div class="undone">1560</div>
+						<div class="lock">1565<sup><sup>!</sup></sup></div>
+						<div class="undone">1566</div>
+						<div class="lock">1571<sup><sup>!</sup></sup></div>
+						<div class="undone">1572</div>
+						
+						<div class="undone">1576</div>
+						<div class="undone">1581</div>
+						<div class="undone">1582</div>
+						<div class="undone">1587</div>
+						<div class="undone">1588</div>
+						<div class="undone">1592</div>
+						<div class="undone">1598</div>
+						<div class="undone">1603</div>
+						<div class="lock">1607<sup><sup>!</sup></sup></div>
+						<div class="undone">1608</div>
+						
+						<div class="undone">1614</div>
+						<div class="undone">1619</div>
+						<div class="lock">1623<sup><sup>!</sup></sup></div>
+						<div class="undone">1624</div>
+						<div class="undone">1629</div>
+						<div class="undone">1633</div>
+						<div class="undone">1636</div>
+						<div class="undone">1640</div>
+						<div class="undone">1646</div>
+						<div class="undone">1652</div>
+						
+						<div class="undone">1656</div>
+						<div class="undone">1661</div>
+						<div class="undone">1662</div>
+						<div class="undone">1667</div>
+						<div class="undone">1668</div>
+						<div class="undone">1672</div>
+						<div class="lock">1677<sup><sup>!</sup></sup></div>
+						<div class="undone">1678</div>
+						<div class="undone">1683</div>
+						<div class="undone">1684</div>
+						
+						<div class="undone">1688</div>
+						<div class="undone">1693</div>
+						<div class="undone">1694</div>
+						<div class="undone">1700</div>
+						<div class="undone">1704</div>
+						<div class="lock">1708<sup><sup>!</sup></sup></div>
+						<div class="undone">1710</div>
+						<div class="undone">1716</div>
+						<div class="undone">1720</div>
+						<div class="undone">1725</div>
+						
+						<div class="undone">1729</div>
+						<div class="undone">1731</div>
+						<div class="undone">1732</div>
+						<div class="undone">1736</div>
+						<div class="undone">1741</div>
+						<div class="undone">1742</div>
+						<div class="undone">1748</div>
+						<div class="undone">1752</div>
+						<div class="undone">1757</div>
+						<div class="undone">1758</div>
+						
+						<div class="undone">1763</div>
+						<div class="undone">1768</div>
+						<div class="undone">1773</div>
+						<div class="lock">1777<sup><sup>!</sup></sup></div>
+						<div class="undone">1779</div>
+						<div class="undone">1784</div>
+						<div class="undone">1789</div>
+						<div class="undone">1790</div>
+						<div class="undone">1791</div>
+						<div class="undone">1795</div>
+						
+						<div class="undone">1796</div>
+						<div class="undone">1800</div>
+						<div class="undone">1805</div>
+						<div class="lock">1809<sup><sup>!</sup></sup></div>
+						<div class="undone">1812</div>
+						<div class="undone">1816</div>
+						<div class="lock">1821<sup><sup>!</sup></sup></div>
+						<div class="undone">1822</div>
+						<div class="lock">1826<sup><sup>!</sup></sup></div>
+						<div class="undone">1827</div>
+						
+						<div class="undone">1832</div>
+						<div class="undone">1837</div>
+						<div class="undone">1844</div>
+						<div class="undone">1848</div>
+						<div class="lock">1853<sup><sup>!</sup></sup></div>
+						<div class="undone">1854</div>
+						<div class="undone">1859</div>
+						<div class="undone">1863</div>
+						<div class="undone">1869</div>
+						<div class="undone">1873</div>
+						
+						<div class="undone">1876</div>
+						<div class="undone">1880</div>
+						<div class="undone">1886</div>
+						<div class="undone">1890</div>
+						<div class="undone">1893</div>
+						<div class="undone">1897</div>
+						<div class="undone">1903</div>
+						<div class="undone">1909</div>
+						<div class="undone">1913</div>
+						<div class="undone">1920</div>
+						
+						<div class="undone">1925</div>
+						<div class="undone">1929</div>
+						<div class="lock">1933<sup><sup>!</sup></sup></div>
+						<div class="undone">1935</div>
+						<div class="lock">1939<sup><sup>!</sup></sup></div>
+						<div class="undone">1941</div>
+						<div class="undone">1945</div>
+						<div class="undone">1952</div>
+						<div class="undone">1957</div>
+						<div class="undone">1961</div>
+						
+						<div class="undone">1965</div>
+						<div class="undone">1967</div>
+						<div class="undone">1971</div>
+						<div class="undone">1974</div>
+						<div class="undone">1978</div>
+						<div class="undone">1979</div>
+						<div class="undone">1984</div>
+						<div class="undone">1991</div>
+						<div class="undone">1995</div>
+						<div class="undone">2000</div>
+					</div>
+				</div>
+			</div>
+			
+			<div id="page5" class="tab-pane show" role="tabpanel">
+				<div class="card">
+					<div class="card-body" style="font-size: 1.22em">
+						<div style="text-align: right; margin-right: 10px; font-size: 1.1em">
+							<span style="background-color: #FFEF2F">✓＝0　🔒＝10　Σ＝111</span>
+						</div>
+						<div class="undone">2006</div>
+						<div class="undone">2011</div>
+						<div class="undone">2016</div>
+						<div class="undone">2022</div>
+						<div class="lock">2026<sup><sup>!</sup></sup></div>
+						<div class="undone">2027</div>
+						<div class="undone">2032</div>
+						<div class="undone">2037</div>
+						<div class="undone">2042</div>
+						<div class="undone">2047</div>
+						
+						<div class="undone">2053</div>
+						<div class="undone">2057</div>
+						<div class="undone">2062</div>
+						<div class="undone">2068</div>
+						<div class="lock">2072<sup><sup>!</sup></sup></div>
+						<div class="undone">2073</div>
+						<div class="undone">2078</div>
+						<div class="lock">2082<sup><sup>!</sup></sup></div>
+						<div class="undone">2085</div>
+						<div class="undone">2089</div>
+						
+						<div class="undone">2094</div>
+						<div class="undone">2099</div>
+						<div class="undone">2103</div>
+						<div class="undone">2108</div>
+						<div class="undone">2114</div>
+						<div class="undone">2119</div>
+						<div class="undone">2124</div>
+						<div class="undone">2129</div>
+						<div class="undone">2133</div>
+						<div class="undone">2138</div>
+						
+						<div class="undone">2144</div>
+						<div class="undone">2148</div>
+						<div class="undone">2154</div>
+						<div class="undone">2160</div>
+						<div class="undone">2164</div>
+						<div class="undone">2169</div>
+						<div class="undone">2176</div>
+						<div class="undone">2180</div>
+						<div class="undone">2185</div>
+						<div class="undone">2190</div>
+						
+						<div class="undone">2194</div>
+						<div class="undone">2200</div>
+						<div class="lock">2205<sup><sup>!</sup></sup></div>
+						<div class="undone">2206</div>
+						<div class="undone">2210</div>
+						<div class="undone">2215</div>
+						<div class="undone">2220</div>
+						<div class="undone">2224</div>
+						<div class="lock">2229<sup><sup>!</sup></sup></div>
+						<div class="lock">2230<sup><sup>!</sup></sup></div>
+						
+						<div class="undone">2231</div>
+						<div class="undone">2235</div>
+						<div class="undone">2236</div>
+						<div class="undone">2239</div>
+						<div class="undone">2243</div>
+						<div class="undone">2248</div>
+						<div class="undone">2255</div>
+						<div class="undone">2259</div>
+						<div class="undone">2264</div>
+						<div class="undone">2269</div>
+						
+						<div class="undone">2273</div>
+						<div class="undone">2278</div>
+						<div class="undone">2283</div>
+						<div class="undone">2287</div>
+						<div class="undone">2293</div>
+						<div class="undone">2299</div>
+						<div class="undone">2303</div>
+						<div class="undone">2309</div>
+						<div class="undone">2315</div>
+						<div class="undone">2319</div>
+						
+						<div class="undone">2325</div>
+						<div class="lock">2329<sup><sup>!</sup></sup></div>
+						<div class="undone">2331</div>
+						<div class="undone">2335</div>
+						<div class="lock">2339<sup><sup>!</sup></sup></div>
+						<div class="undone">2341</div>
+						<div class="undone">2347</div>
+						<div class="undone">2351</div>
+						<div class="undone">2356</div>
+						<div class="undone">2357</div>
+						
+						<div class="undone">2363</div>
+						<div class="undone">2367</div>
+						<div class="undone">2373</div>
+						<div class="lock">2377<sup><sup>!</sup></sup></div>
+						<div class="undone">2379</div>
+						<div class="undone">2383</div>
+						<div class="undone">2389</div>
+						<div class="undone">2395</div>
+						<div class="undone">2399</div>
+						<div class="undone">2404</div>
+						
+						<div class="undone">2409</div>
+						<div class="undone">2413</div>
+						<div class="undone">2418</div>
+						<div class="undone">2423</div>
+						<div class="undone">2427</div>
+						<div class="undone">2432</div>
+						<div class="undone">2437</div>
+						<div class="undone">2441</div>
+						<div class="undone">2446</div>
+						<div class="undone">2451</div>
+						
+						<div class="undone">2455</div>
+						<div class="undone">2460</div>
+						<div class="undone">2465</div>
+						<div class="undone">2469</div>
+						<div class="undone">2475</div>
+						<div class="lock">2480<sup><sup>!</sup></sup></div>
+						<div class="undone">2481</div>
+						<div class="undone">2485</div>
+						<div class="undone">2490</div>
+						<div class="undone">2496</div>
+						
+						<div class="undone">2500</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

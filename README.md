@@ -1,37 +1,57 @@
 ### 專案簡介
 
-宗教機器人是一款 `LINE 自動聊天程式`，它鼓勵用戶們轉傳、分享自己讀到有感的宗教訊息（可以是一段話、一張圖片或一段語音）。
+分享我在 `LeetCode 的刷題筆記`，包含**思路拆解、算法工具**，以及在討論區讀到的內容。
 
-透過問題的提問及訊息的收集，我們希望能捕捉用戶**在線上的日常宗教接觸**狀況。
-
-<p align="center">
-    <img src="https://upload.cc/i1/2022/07/08/RBsMCj.png" style="padding-left: 25%; width: 50%">
-</p>
-
-
-### 功能一覽
+與其提供完整的程式碼，不如讓各位咀嚼消化後親自上陣，這才是更重要的！<br><br>
 
 <table style="table-layout: fixed">
     <thead>
-        <td align="center" width="500vmax"> 圖示 </td>
-        <td align="center" width="500vmax"> 說明 </td>
+        <td align="center" width="300vmax"> ✔️ 這裡會提供</td>
+        <td align="center" width="300vmax"> ❌ 這裡不會有 </td>
     </thead>
     <tr>
-        <td align="center"> <br><img src="https://upload.cc/i1/2022/07/08/hTMI8V.png" width="35%"><br><br> </td>
-        <td align="center"> 機器人收到訊息後，即開始發送問題。<br><br>備註：圖片與音檔將被自動下載至伺服器端。 </td>
-    </tr>
-    <tr>
-        <td align="center"> <br><img src="https://upload.cc/i1/2022/07/08/ZaOJzl.png" width="80%"><br><br> </td>
-        <td align="center"> 1. 當偵測到回覆了關鍵詞，即自動發送下一題。<br><br> 2. Line Chatbot 具備多種模板，可滿足選擇題、<br>是非題與簡答題等多種需求。 </td>
+				<td align="center">
+						<li>閱讀消化題目的技巧</li>
+						<li>可行的策略或工具</li>
+						<li>演算法、複雜度的比較</li>
+        </td>
+        <td align="center">
+            <li>各種解法的完整程式碼</li>
+            <li>演算法基礎教學</li>
+				</td>
     </tr>
 </table>
 
+```
+[小提示]
 
-1. 從 Leetcode 導覽到 Github
+若你也在刷題之路上，建議你先列出各種策略 (土法煉鋼也沒關係) 嘗試解解看
 
-2. 查詢方式：目前已解、精選好題、分類 Tag
+再比對文章小標題，檢視有無遺漏的思路，還是想不出來再細讀內容即可
+```
 
 
+### 題解一覽
 
-2. Github 提供總目錄，以及
-
+<table style="table-layout: fixed">
+    <thead>
+        <td align="center" width="250vmax"> 類別 </td>
+        <td align="center" width="150vmax"> 題數 </td>
+        <td align="center" width="200vmax"> 連結 </td>
+    </thead>
+    <tr>
+        <td align="center">索引總冊</td>
+        <td align="center">0</td>
+        <td align="center">[下載] ([預覽])</td>
+    </tr>
+    <tr>
+        <td align="center">精選好題</td>
+        <td align="center">0</td>
+        <td align="center">[點我]</td>
+    </tr>
+    <tr>
+        <td align="center">Tags</td>
+        <td align="center">－</td>
+        <td align="center">[點我]</td>
+    </tr>
+</table>

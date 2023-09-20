@@ -40,7 +40,7 @@
         <td align="center" width="200vmax"> 連結 </td>
     </thead>
     <tr>
-        <td align="center">索引總冊</td>
+        <td align="center">(推薦) 索引總冊</td>
         <td align="center">0</td>
         <td align="center">[下載] ([預覽])</td>
     </tr>

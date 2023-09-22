@@ -59,7 +59,7 @@
     </tr>
 </table><br>
 
-[下載](./blob/master/DoneList.htm)
+[下載](./DoneList.htm "DL")
 
 <!-- 解題索引 -->
 <table style="table-layout: fixed">

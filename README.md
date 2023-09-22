@@ -44,7 +44,7 @@
         <td align="center">(推薦) 索引總冊</td>
         <td align="center">1</td>
 				<td align="center">
-					<a href="https://github.com/Lynn19950915/LeetCode_King/blob/master/DoneList.htm" download>下載</a>
+					<a href="https://github.com/Lynn19950915/LeetCode_King/blob/master/DoneList.htm" download="索引總冊">下載</a>
 					(<a href="http://htmlpreview.github.io/?https://github.com/Lynn19950915/LeetCode_King/blob/master/DoneList.htm">預覽</a>)
 				</td>
     </tr>

@@ -44,13 +44,13 @@
         <td align="center">(推薦) 索引總冊</td>
         <td align="center">1</td>
 				<td align="center">
-					下載(<a href="http://htmlpreview.github.io/?https://github.com/Lynn19950915/LeetCode_King/blob/master/DoneList.htm">預覽</a>)
+					下載 (<a href="http://htmlpreview.github.io/?https://github.com/Lynn19950915/LeetCode_King/blob/master/DoneList.htm">預覽</a>)
 				</td>
     </tr>
     <tr>
         <td align="center">精選好題</td>
         <td align="center">0</td>
-        <td align="center">[點我]</td>
+        <td align="center">點我</td>
     </tr>
     <tr>
         <td align="center">Tags</td>
@@ -58,8 +58,6 @@
         <td align="center"><a href="https://github.com/Lynn19950915/LeetCode_King/tree/master/Tags">點我</a></td>
     </tr>
 </table><br>
-
-[下載](./DoneList.htm "DL")
 
 <!-- 解題索引 -->
 <table style="table-layout: fixed">

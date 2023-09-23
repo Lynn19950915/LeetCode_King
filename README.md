@@ -50,7 +50,7 @@
     </tr>
     <tr>
         <td align="center">精選好題</td>
-        <td align="center"><b>1</b></td>
+        <td align="center"><b>0</b></td>
         <td align="center">點我</td>
     </tr>
     <tr>
@@ -76,6 +76,6 @@
         <td align="center">公交站間的距離</td>
 				<td align="center">1</td>
         <td align="center">53.8％</td>
-        <td align="center"><a href="https://vocus.cc/article/650d3947fd89780001556c3d" target="_blank">點我</a></td>
+        <td align="center"><a href="https://vocus.cc/article/650d3947fd89780001556c3d">點我</a></td>
     </tr>
 </table>

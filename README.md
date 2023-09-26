@@ -42,7 +42,7 @@
     </thead>
     <tr>
         <td align="center">(推薦) 索引總冊</td>
-        <td align="center"><b>1</b></td>
+        <td align="center"><b>2</b></td>
 				<td align="center">
 					<a href="https://github.com/Lynn19950915/LeetCode_King/blob/master/DoneList.htm">點我</a>
 					(下載後<a href="http://htmlpreview.github.io/?https://github.com/Lynn19950915/LeetCode_King/blob/master/DoneList.htm">預覽</a>)
@@ -77,5 +77,13 @@
 				<td align="center">1</td>
         <td align="center">53.8％</td>
         <td align="center"><a href="https://vocus.cc/article/650d3947fd89780001556c3d">點我</a></td>
+    </tr>
+		<tr>
+        <td align="center">1217</td>
+        <td align="center">Minimum Cost to Move Chips to The Same Position</td>
+        <td align="center">玩籌碼</td>
+				<td align="center">3</td>
+        <td align="center">71.8％</td>
+        <td align="center"><a href="https://vocus.cc/article/6512802dfd89780001dccd52">點我</a></td>
     </tr>
 </table>

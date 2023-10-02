@@ -42,7 +42,7 @@
     </thead>
     <tr>
         <td align="center">(推薦) 索引總冊</td>
-        <td align="center"><b>3</b></td>
+        <td align="center"><b>4</b></td>
 				<td align="center">
 					<a href="https://github.com/Lynn19950915/LeetCode_King/blob/master/DoneList.htm">點我</a>
 					(下載後<a href="http://htmlpreview.github.io/?https://github.com/Lynn19950915/LeetCode_King/blob/master/DoneList.htm">預覽</a>)
@@ -50,8 +50,8 @@
     </tr>
     <tr>
         <td align="center">精選好題</td>
-        <td align="center"><b>0</b></td>
-        <td align="center">點我</td>
+        <td align="center"><b>1</b></td>
+        <td align="center"><a href="https://github.com/Lynn19950915/LeetCode_King/tree/master/Selection">點我</a></td>
     </tr>
     <tr>
         <td align="center">Tags</td>

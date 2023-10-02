@@ -71,6 +71,14 @@
 				<td align="center" width="75vmax"> 連結 </td>
     </thead>
 		<tr>
+        <td align="center">389</td>
+        <td align="center">Find the Difference</td>
+        <td align="center">找不同</td>
+				<td align="center">4</td>
+        <td align="center">60.4％</td>
+        <td align="center"><a href="https://vocus.cc/article/6512b3e9fd89780001dfc622">點我</a></td>
+    </tr>
+		<tr>
         <td align="center">709</td>
         <td align="center">To Lower Case</td>
         <td align="center">轉換成小寫字母</td>

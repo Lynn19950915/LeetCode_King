@@ -64,40 +64,35 @@
 <table style="table-layout: fixed">
 		<thead>
 				<td align="center" width="75vmax"> 題號 </td>
-				<td align="center" width="275vmax"> 標題(英) </td>
-        <td align="center" width="225vmax"> 標題(中) </td>
+				<td align="center" width="475vmax"> 標題 </td>
 				<td align="center" width="85vmax"> #(Tags) </td>
-				<td align="center" width="75vmax"> 正解率 </td>
+				<td align="center" width="85vmax"> 正解率 </td>
 				<td align="center" width="75vmax"> 連結 </td>
     </thead>
 		<tr>
         <td align="center">389</td>
-        <td align="center">Find the Difference</td>
-        <td align="center">找不同</td>
+        <td align="center">Find the Difference (找不同)</td>
 				<td align="center">4</td>
         <td align="center">60.4％</td>
         <td align="center"><a href="https://vocus.cc/article/6512b3e9fd89780001dfc622">點我</a></td>
     </tr>
 		<tr>
         <td align="center">709</td>
-        <td align="center">To Lower Case</td>
-        <td align="center">轉換成小寫字母</td>
+        <td align="center">To Lower Case (轉換成小寫字母)</td>
 				<td align="center">1</td>
         <td align="center">82.8％</td>
         <td align="center"><a href="https://vocus.cc/article/65129230fd89780001ddc557">點我</a></td>
     </tr>
     <tr>
         <td align="center">1184</td>
-        <td align="center">Distance Between Bus Stops</td>
-        <td align="center">公交站間的距離</td>
+        <td align="center">Distance Between Bus Stops (公交站間的距離)</td>
 				<td align="center">1</td>
         <td align="center">53.8％</td>
         <td align="center"><a href="https://vocus.cc/article/650d3947fd89780001556c3d">點我</a></td>
     </tr>
 		<tr>
         <td align="center">1217</td>
-        <td align="center">Minimum Cost to Move Chips to The Same Position</td>
-        <td align="center">玩籌碼</td>
+        <td align="center">Minimum Cost to Move Chips to The Same Position (玩籌碼)</td>
 				<td align="center">3</td>
         <td align="center">71.8％</td>
         <td align="center"><a href="https://vocus.cc/article/6512802dfd89780001dccd52">點我</a></td>

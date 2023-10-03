@@ -6,8 +6,8 @@
 
 <table style="table-layout: fixed">
     <thead>
-        <td align="center" width="300vmax"> ✔️ 這裡會提供</td>
-        <td align="center" width="300vmax"> ❌ 這裡不會有 </td>
+        <td align="center" width="300vmax">✔️ 這裡會提供</td>
+        <td align="center" width="300vmax">❌ 這裡不會有</td>
     </thead>
     <tr>
 				<td align="center">
@@ -36,9 +36,9 @@
 <!-- 查詢方式 -->
 <table style="table-layout: fixed">
     <thead>
-        <td align="center" width="250vmax"> 類別 </td>
-        <td align="center" width="150vmax"> 題數 </td>
-        <td align="center" width="200vmax"> 連結 </td>
+        <td align="center" width="250vmax">類別</td>
+        <td align="center" width="150vmax">題數</td>
+        <td align="center" width="200vmax">連結</td>
     </thead>
     <tr>
         <td align="center">(推薦) 索引總冊</td>
@@ -63,11 +63,11 @@
 <!-- 解題索引 -->
 <table style="table-layout: fixed">
 		<thead>
-				<td align="center" width="75vmax"> 題號 </td>
-				<td align="center" width="475vmax"> 標題 </td>
-				<td align="center" width="85vmax"> #(Tags) </td>
-				<td align="center" width="85vmax"> 正解率 </td>
-				<td align="center" width="75vmax"> 連結 </td>
+				<td align="center" width="75vmax">題號</td>
+				<td align="center" width="475vmax">標題</td>
+				<td align="center" width="85vmax">#(Tags)</td>
+				<td align="center" width="85vmax">正解率</td>
+				<td align="center" width="75vmax">連結</td>
     </thead>
 		<tr>
         <td align="center">389</td>

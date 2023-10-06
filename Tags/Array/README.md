@@ -22,4 +22,11 @@
         <td align="center">71.8％</td>
         <td align="center"><a href="https://vocus.cc/article/6512802dfd89780001dccd52">點我</a></td>
     </tr>
+		<tr>
+        <td align="center">1502</td>
+        <td align="center">Can Make Arithmetic Progression From Sequence (判斷能否形成等差數列)</td>
+				<td align="center">2</td>
+        <td align="center">69.9％</td>
+        <td align="center"><a href="https://vocus.cc/article/651fabacfd897800018ed512">點我</a></td>
+    </tr>
 </table>

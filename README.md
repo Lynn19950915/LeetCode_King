@@ -42,7 +42,7 @@
     </thead>
     <tr>
         <td align="center">(推薦) 索引總冊</td>
-        <td align="center"><b>5</b></td>
+        <td align="center"><b>6</b></td>
 				<td align="center">
 					<a href="https://github.com/Lynn19950915/LeetCode_King/blob/master/DoneList.htm">點我</a>
 					(下載後<a href="http://htmlpreview.github.io/?https://github.com/Lynn19950915/LeetCode_King/blob/master/DoneList.htm">預覽</a>)
@@ -103,5 +103,12 @@
 				<td align="center">3</td>
         <td align="center">71.8％</td>
         <td align="center"><a href="https://vocus.cc/article/6512802dfd89780001dccd52">點我</a></td>
+    </tr>
+		<tr>
+        <td align="center">1502</td>
+        <td align="center">Can Make Arithmetic Progression From Sequence (判斷能否形成等差數列)</td>
+				<td align="center">2</td>
+        <td align="center">69.9％</td>
+        <td align="center"><a href="https://vocus.cc/article/651fabacfd897800018ed512">點我</a></td>
     </tr>
 </table>

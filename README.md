@@ -42,7 +42,7 @@
     </thead>
     <tr>
         <td align="center">(推薦) 索引總冊</td>
-        <td align="center"><b>7</b></td>
+        <td align="center"><b>8</b></td>
 				<td align="center">
 					<a href="https://github.com/Lynn19950915/LeetCode_King/blob/master/DoneList.htm">點我</a>
 					(下載後<a href="http://htmlpreview.github.io/?https://github.com/Lynn19950915/LeetCode_King/blob/master/DoneList.htm">預覽</a>)
@@ -75,6 +75,13 @@
 				<td align="center">4</td>
         <td align="center">60.4％</td>
         <td align="center"><a href="https://vocus.cc/article/6512b3e9fd89780001dfc622">點我</a></td>
+    </tr>
+		<tr>
+        <td align="center">595</td>
+        <td align="center">Big Countries (大的國家)</td>
+				<td align="center">1</td>
+        <td align="center">68.6％</td>
+        <td align="center"><a href="https://vocus.cc/article/6529083afd8978000195aeb8">點我</a></td>
     </tr>
 		<tr>
         <td align="center">620</td>

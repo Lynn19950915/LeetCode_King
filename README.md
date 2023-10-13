@@ -42,7 +42,7 @@
     </thead>
     <tr>
         <td align="center">(推薦) 索引總冊</td>
-        <td align="center"><b>6</b></td>
+        <td align="center"><b>7</b></td>
 				<td align="center">
 					<a href="https://github.com/Lynn19950915/LeetCode_King/blob/master/DoneList.htm">點我</a>
 					(下載後<a href="http://htmlpreview.github.io/?https://github.com/Lynn19950915/LeetCode_King/blob/master/DoneList.htm">預覽</a>)
@@ -110,5 +110,12 @@
 				<td align="center">2</td>
         <td align="center">69.9％</td>
         <td align="center"><a href="https://vocus.cc/article/651fabacfd897800018ed512">點我</a></td>
+    </tr>
+		<tr>
+        <td align="center">1672</td>
+        <td align="center">Richest Customer Wealth (最富有客戶的資產總量)</td>
+				<td align="center">2</td>
+        <td align="center">87.5％</td>
+        <td align="center"><a href="https://vocus.cc/article/6528e7b0fd8978000193c89f">點我</a></td>
     </tr>
 </table>

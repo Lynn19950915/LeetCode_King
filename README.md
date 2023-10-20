@@ -42,7 +42,7 @@
     </thead>
     <tr>
         <td align="center">(推薦) 索引總冊</td>
-        <td align="center"><b>9</b></td>
+        <td align="center"><b>10</b></td>
 				<td align="center">
 					<a href="https://github.com/Lynn19950915/LeetCode_King/blob/master/DoneList.htm">點我</a>
 					(下載後<a href="http://htmlpreview.github.io/?https://github.com/Lynn19950915/LeetCode_King/blob/master/DoneList.htm">預覽</a>)
@@ -131,5 +131,12 @@
 				<td align="center">2</td>
         <td align="center">87.5％</td>
         <td align="center"><a href="https://vocus.cc/article/6528e7b0fd8978000193c89f">點我</a></td>
+    </tr>
+		<tr>
+        <td align="center">2148</td>
+        <td align="center">Count Elements With Strictly Smaller and Greater Elements (元素計數)</td>
+				<td align="center">2</td>
+        <td align="center">59.3％</td>
+        <td align="center"><a href="https://vocus.cc/article/652e59d3fd897800018ef808">點我</a></td>
     </tr>
 </table>

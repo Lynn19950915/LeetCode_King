@@ -22,4 +22,11 @@
         <td align="center">69.9％</td>
         <td align="center"><a href="https://vocus.cc/article/651fabacfd897800018ed512">點我</a></td>
     </tr>
+		<tr>
+        <td align="center">2148</td>
+        <td align="center">Count Elements With Strictly Smaller and Greater Elements (元素計數)</td>
+				<td align="center">2</td>
+        <td align="center">59.3％</td>
+        <td align="center"><a href="https://vocus.cc/article/652e59d3fd897800018ef808">點我</a></td>
+    </tr>
 </table>

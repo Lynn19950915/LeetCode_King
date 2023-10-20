@@ -24,7 +24,7 @@
     </tr>
 		<tr>
         <td align="center">2148</td>
-        <td align="center">Count Elements With Strictly Smaller and Greater Elements (元素計數)</td>
+        <td align="center">Count Elements With Strictly Smaller and Greater Elements<br>(元素計數)</td>
 				<td align="center">2</td>
         <td align="center">59.3％</td>
         <td align="center"><a href="https://vocus.cc/article/652e59d3fd897800018ef808">點我</a></td>

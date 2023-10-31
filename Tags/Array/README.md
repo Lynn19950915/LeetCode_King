@@ -30,6 +30,13 @@
         <td align="center"><a href="https://vocus.cc/article/6512802dfd89780001dccd52">點我</a></td>
     </tr>
 		<tr>
+        <td align="center">1480</td>
+        <td align="center">Running Sum of 1d Array (一維數組的動態和)</td>
+				<td align="center">2</td>
+        <td align="center">86.6％</td>
+        <td align="center"><a href="https://vocus.cc/article/6540a7dcfd897800010ffe93">點我</a></td>
+    </tr>
+		<tr>
         <td align="center">1502</td>
         <td align="center">Can Make Arithmetic Progression From Sequence<br>(判斷能否形成等差數列)</td>
 				<td align="center">2</td>

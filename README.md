@@ -42,7 +42,7 @@
     </thead>
     <tr>
         <td align="center">(推薦) 索引總冊</td>
-        <td align="center"><b>10</b></td>
+        <td align="center"><b>11</b></td>
 				<td align="center">
 					<a href="https://github.com/Lynn19950915/LeetCode_King/blob/master/DoneList.htm">點我</a>
 					(下載後<a href="http://htmlpreview.github.io/?https://github.com/Lynn19950915/LeetCode_King/blob/master/DoneList.htm">預覽</a>)
@@ -117,6 +117,13 @@
 				<td align="center">3</td>
         <td align="center">71.8％</td>
         <td align="center"><a href="https://vocus.cc/article/6512802dfd89780001dccd52">點我</a></td>
+    </tr>
+		<tr>
+        <td align="center">1480</td>
+        <td align="center">Running Sum of 1d Array (一維數組的動態和)</td>
+				<td align="center">2</td>
+        <td align="center">86.6％</td>
+        <td align="center"><a href="https://vocus.cc/article/6540a7dcfd897800010ffe93">點我</a></td>
     </tr>
 		<tr>
         <td align="center">1502</td>

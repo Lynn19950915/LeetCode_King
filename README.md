@@ -42,7 +42,7 @@
     </thead>
     <tr>
         <td align="center">(推薦) 索引總冊</td>
-        <td align="center"><b>11</b></td>
+        <td align="center"><b>12</b></td>
 				<td align="center">
 					<a href="https://github.com/Lynn19950915/LeetCode_King/blob/master/DoneList.htm">點我</a>
 					(下載後<a href="http://htmlpreview.github.io/?https://github.com/Lynn19950915/LeetCode_King/blob/master/DoneList.htm">預覽</a>)
@@ -103,6 +103,13 @@
 				<td align="center">1</td>
         <td align="center">82.8％</td>
         <td align="center"><a href="https://vocus.cc/article/65129230fd89780001ddc557">點我</a></td>
+    </tr>
+		<tr>
+        <td align="center">908</td>
+        <td align="center">Smallest Range I (最小差值 I)</td>
+				<td align="center">2</td>
+        <td align="center">69.3％</td>
+        <td align="center"><a href="https://vocus.cc/article/6549ae08fd8978000169cba4">點我</a></td>
     </tr>
     <tr>
         <td align="center">1184</td>

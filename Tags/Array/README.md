@@ -15,6 +15,13 @@
         <td align="center">75.2％</td>
         <td align="center"><a href="https://vocus.cc/article/652df940fd89780001ae103a">點我</a></td>
     </tr>
+		<tr>
+        <td align="center">908</td>
+        <td align="center">Smallest Range I (最小差值 I)</td>
+				<td align="center">2</td>
+        <td align="center">69.3％</td>
+        <td align="center"><a href="https://vocus.cc/article/6549ae08fd8978000169cba4">點我</a></td>
+    </tr>
     <tr>
         <td align="center">1184</td>
         <td align="center">Distance Between Bus Stops (公交站間的距離)</td>

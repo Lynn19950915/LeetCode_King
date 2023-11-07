@@ -9,6 +9,13 @@
 				<td align="center" width="75vmax">連結</td>
     </thead>
 		<tr>
+        <td align="center">908</td>
+        <td align="center">Smallest Range I (最小差值 I)</td>
+				<td align="center">2</td>
+        <td align="center">69.3％</td>
+        <td align="center"><a href="https://vocus.cc/article/6549ae08fd8978000169cba4">點我</a></td>
+    </tr>
+		<tr>
         <td align="center">1217</td>
         <td align="center">Minimum Cost to Move Chips to The Same Position (玩籌碼)</td>
 				<td align="center">3</td>

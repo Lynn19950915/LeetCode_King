@@ -9,6 +9,13 @@
 				<td align="center" width="75vmax">連結</td>
     </thead>
 		<tr>
+        <td align="center">485</td>
+        <td align="center">Max Consecutive Ones (最大連續 1 的個數)</td>
+				<td align="center">1</td>
+        <td align="center">57.9％</td>
+        <td align="center"><a href="https://vocus.cc/article/6549b288fd897800016a1301">點我</a></td>
+    </tr>
+		<tr>
         <td align="center">682</td>
         <td align="center">Baseball Game (棒球比賽)</td>
 				<td align="center">3</td>

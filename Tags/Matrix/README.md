@@ -9,6 +9,13 @@
 				<td align="center" width="75vmax">連結</td>
     </thead>
 		<tr>
+        <td align="center">867</td>
+        <td align="center">Transpose Matrix (轉置矩陣)</td>
+				<td align="center">3</td>
+        <td align="center">66.1％</td>
+        <td align="center"><a href="https://vocus.cc/article/6551c224fd897800012eea4b">點我</a></td>
+    </tr>
+		<tr>
         <td align="center">1672</td>
         <td align="center">Richest Customer Wealth (最富有客戶的資產總量)</td>
 				<td align="center">2</td>

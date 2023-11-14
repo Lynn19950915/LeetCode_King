@@ -22,4 +22,11 @@
         <td align="center">71.8％</td>
         <td align="center"><a href="https://vocus.cc/article/6512802dfd89780001dccd52">點我</a></td>
     </tr>
+		<tr>
+        <td align="center">1822</td>
+        <td align="center">Sign of the Product of an Array (數組元素積的符號)</td>
+				<td align="center">2</td>
+        <td align="center">65.3％</td>
+        <td align="center"><a href="https://vocus.cc/article/6552dd3afd897800013b6a80">點我</a></td>
+    </tr>
 </table>

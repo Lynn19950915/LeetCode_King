@@ -72,6 +72,13 @@
         <td align="center"><a href="https://vocus.cc/article/6528e7b0fd8978000193c89f">點我</a></td>
     </tr>
 		<tr>
+        <td align="center">1822</td>
+        <td align="center">Sign of the Product of an Array (數組元素積的符號)</td>
+				<td align="center">2</td>
+        <td align="center">65.3％</td>
+        <td align="center"><a href="https://vocus.cc/article/6552dd3afd897800013b6a80">點我</a></td>
+    </tr>
+		<tr>
         <td align="center">2148</td>
         <td align="center">Count Elements With Strictly Smaller and Greater Elements<br>(元素計數)</td>
 				<td align="center">2</td>

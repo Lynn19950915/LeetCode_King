@@ -42,7 +42,7 @@
     </thead>
     <tr>
         <td align="center">(推薦) 索引總冊</td>
-        <td align="center"><b>15</b></td>
+        <td align="center"><b>16</b></td>
 				<td align="center">
 					<a href="https://github.com/Lynn19950915/LeetCode_King/blob/master/DoneList.htm">點我</a>
 					(下載後<a href="http://htmlpreview.github.io/?https://github.com/Lynn19950915/LeetCode_King/blob/master/DoneList.htm">預覽</a>)
@@ -166,6 +166,13 @@
 				<td align="center">2</td>
         <td align="center">65.3％</td>
         <td align="center"><a href="https://vocus.cc/article/6552dd3afd897800013b6a80">點我</a></td>
+    </tr>
+		<tr>
+        <td align="center">1941</td>
+        <td align="center">Check if All Characters Have Equal Number of Occurrences<br>(檢查是否所有字符出現次數相同)</td>
+				<td align="center">3</td>
+        <td align="center">77.0％</td>
+        <td align="center"><a href="https://vocus.cc/article/6553292ffd897800013febd2">點我</a></td>
     </tr>
 		<tr>
         <td align="center">2148</td>

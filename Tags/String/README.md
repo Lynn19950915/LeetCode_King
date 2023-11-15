@@ -22,4 +22,11 @@
         <td align="center">82.8％</td>
         <td align="center"><a href="https://vocus.cc/article/65129230fd89780001ddc557">點我</a></td>
     </tr>
+		<tr>
+        <td align="center">1941</td>
+        <td align="center">Check if All Characters Have Equal Number of Occurrences<br>(檢查是否所有字符出現次數相同)</td>
+				<td align="center">3</td>
+        <td align="center">77.0％</td>
+        <td align="center"><a href="https://vocus.cc/article/6553292ffd897800013febd2">點我</a></td>
+    </tr>
 </table>

@@ -42,7 +42,7 @@
     </thead>
     <tr>
         <td align="center">(推薦) 索引總冊</td>
-        <td align="center"><b>16</b></td>
+        <td align="center"><b>17</b></td>
 				<td align="center">
 					<a href="https://github.com/Lynn19950915/LeetCode_King/blob/master/DoneList.htm">點我</a>
 					(下載後<a href="http://htmlpreview.github.io/?https://github.com/Lynn19950915/LeetCode_King/blob/master/DoneList.htm">預覽</a>)
@@ -138,6 +138,13 @@
 				<td align="center">3</td>
         <td align="center">71.8％</td>
         <td align="center"><a href="https://vocus.cc/article/6512802dfd89780001dccd52">點我</a></td>
+    </tr>
+		<tr>
+        <td align="center">1304</td>
+        <td align="center">Find N Unique Integers Sum up to Zero (和為零的 N 個不同整數)</td>
+				<td align="center">2</td>
+        <td align="center">76.4％</td>
+        <td align="center"><a href="https://vocus.cc/article/65797d52fd897800017fd29c">點我</a></td>
     </tr>
 		<tr>
         <td align="center">1480</td>

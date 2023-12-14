@@ -52,7 +52,7 @@
     </tr>
 		<tr>
         <td align="center">1304</td>
-        <td align="center">Find N Unique Integers Sum up to Zero (和為零的 N 個不同整數)</td>
+        <td align="center">Find N Unique Integers Sum up to Zero<br>(和為零的 N 個不同整數)</td>
 				<td align="center">2</td>
         <td align="center">76.4％</td>
         <td align="center"><a href="https://vocus.cc/article/65797d52fd897800017fd29c">點我</a></td>

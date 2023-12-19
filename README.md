@@ -42,7 +42,7 @@
     </thead>
     <tr>
         <td align="center">(推薦) 索引總冊</td>
-        <td align="center"><b>17</b></td>
+        <td align="center"><b>18</b></td>
 				<td align="center">
 					<a href="https://github.com/Lynn19950915/LeetCode_King/blob/master/DoneList.htm">點我</a>
 					(下載後<a href="http://htmlpreview.github.io/?https://github.com/Lynn19950915/LeetCode_King/blob/master/DoneList.htm">預覽</a>)
@@ -50,7 +50,7 @@
     </tr>
     <tr>
         <td align="center">精選好題</td>
-        <td align="center"><b>1</b></td>
+        <td align="center"><b>2</b></td>
         <td align="center"><a href="https://github.com/Lynn19950915/LeetCode_King/tree/master/Selection">點我</a></td>
     </tr>
     <tr>
@@ -69,6 +69,13 @@
 				<td align="center" width="85vmax">正解率</td>
 				<td align="center" width="75vmax">連結</td>
     </thead>
+		<tr>
+        <td align="center">136</td>
+        <td align="center">Single Number (只出現一次的數字)</td>
+				<td align="center">2</td>
+        <td align="center">72.0％</td>
+        <td align="center"><a href="https://vocus.cc/article/657ffeb2fd89780001968389">點我</a></td>
+    </tr>
 		<tr>
         <td align="center">389</td>
         <td align="center">Find the Difference (找不同)</td>

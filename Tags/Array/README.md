@@ -9,6 +9,13 @@
 				<td align="center" width="75vmax">連結</td>
     </thead>
 		<tr>
+        <td align="center">136</td>
+        <td align="center">Single Number (只出現一次的數字)</td>
+				<td align="center">2</td>
+        <td align="center">72.0％</td>
+        <td align="center"><a href="https://vocus.cc/article/657ffeb2fd89780001968389">點我</a></td>
+    </tr>
+		<tr>
         <td align="center">485</td>
         <td align="center">Max Consecutive Ones (最大連續 1 的個數)</td>
 				<td align="center">1</td>

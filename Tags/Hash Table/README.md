@@ -9,6 +9,13 @@
 				<td align="center" width="75vmax">連結</td>
     </thead>
 		<tr>
+        <td align="center">383</td>
+        <td align="center">Ransom Note (贖金信)</td>
+				<td align="center">3</td>
+        <td align="center">60.5％</td>
+        <td align="center"><a href="https://vocus.cc/article/65ae171afd89780001a9d377">點我</a></td>
+    </tr>
+		<tr>
         <td align="center">389</td>
         <td align="center">Find the Difference (找不同)</td>
 				<td align="center">4</td>

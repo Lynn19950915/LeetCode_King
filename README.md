@@ -42,7 +42,7 @@
     </thead>
     <tr>
         <td align="center">(推薦) 索引總冊</td>
-        <td align="center"><b>18</b></td>
+        <td align="center"><b>19</b></td>
 				<td align="center">
 					<a href="https://github.com/Lynn19950915/LeetCode_King/blob/master/DoneList.htm">點我</a>
 					(下載後<a href="http://htmlpreview.github.io/?https://github.com/Lynn19950915/LeetCode_King/blob/master/DoneList.htm">預覽</a>)
@@ -75,6 +75,13 @@
 				<td align="center">2</td>
         <td align="center">72.0％</td>
         <td align="center"><a href="https://vocus.cc/article/657ffeb2fd89780001968389">點我</a></td>
+    </tr>
+		<tr>
+        <td align="center">383</td>
+        <td align="center">Ransom Note (贖金信)</td>
+				<td align="center">3</td>
+        <td align="center">60.5％</td>
+        <td align="center"><a href="https://vocus.cc/article/65ae171afd89780001a9d377">點我</a></td>
     </tr>
 		<tr>
         <td align="center">389</td>

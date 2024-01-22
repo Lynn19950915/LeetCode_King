@@ -9,6 +9,13 @@
 				<td align="center" width="75vmax">連結</td>
     </thead>
 		<tr>
+        <td align="center">383</td>
+        <td align="center">Ransom Note (贖金信)</td>
+				<td align="center">3</td>
+        <td align="center">60.5％</td>
+        <td align="center"><a href="https://vocus.cc/article/65ae171afd89780001a9d377">點我</a></td>
+    </tr>
+		<tr>
         <td align="center">1941</td>
         <td align="center">Check if All Characters Have Equal Number of Occurrences<br>(檢查是否所有字符出現次數相同)</td>
 				<td align="center">3</td>

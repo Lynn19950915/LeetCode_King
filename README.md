@@ -33,54 +33,12 @@
 
 ### 題解一覽
 
-<!-- 查詢方式 -->
-<table style="table-layout: fixed">
-    <thead>
-        <td align="center" width="175vmax">類別</td>
-        <td align="center" width="175vmax">題數</td>
-        <td align="center" width="150vmax">連結</td>
-        <td align="center" width="175vmax">備註</td>
-    </thead>
-    <tr>
-        <td align="center">精選好題</td>
-        <td align="center"><b>2</b></td>
-        <td align="center"><a href="https://github.com/Lynn19950915/LeetCode_King/tree/master/Selection">點我</a></td>
-        <td align="center"></td>
-    </tr>
-    <tr>
-        <td align="center">Tags</td>
-        <td align="center">－</td>
-        <td align="center"><a href="https://github.com/Lynn19950915/LeetCode_King/tree/master/Tags">點我</a></td>
-        <td align="center"></td>
-    </tr>
-    <tr>
-        <td align="center">1-500</td>
-        <td align="center"><b>5</b> / 117</td>
-        <td align="center"><a href="https://github.com/Lynn19950915/LeetCode_King/blob/master/0001-0500.md">點我</a></td>
-        <td align="center">🔒 x 13</td>
-    </tr>
-    <tr>
-        <td align="center">501-1000</td>
-        <td align="center"><b>6</b> / 121</td>
-        <td align="center"><a href="https://github.com/Lynn19950915/LeetCode_King/blob/master/0501-1000.md">點我</a></td>
-        <td align="center">🔒 x 8</td>
-    </tr>
-    <tr>
-        <td align="center">1001-1500</td>
-        <td align="center"><b>4</b> / 136</td>
-        <td align="center"><a href="https://github.com/Lynn19950915/LeetCode_King/blob/master/1001-1500.md">點我</a></td>
-        <td align="center">🔒 x 39</td>
-    </tr>
-    <tr>
-        <td align="center">1501-2000</td>
-        <td align="center"><b>5</b> / 130</td>
-        <td align="center"><a href="https://github.com/Lynn19950915/LeetCode_King/blob/master/1501-2000.md">點我</a></td>
-        <td align="center">🔒 x 15</td>
-    </tr>
-    <tr>
-        <td align="center">2001-2500</td>
-        <td align="center"><b>1</b> / 111</td>
-        <td align="center"><a href="https://github.com/Lynn19950915/LeetCode_King/blob/master/2001-2500.md">點我</a></td>
-        <td align="center">🔒 x 10</td>
-    </tr>
-</table><br>
+| 類別 | 題數 | 連結 | 備註 |
+| :---: | :---: | :---: | :---: |
+| <img width="40"/>精選好題<img width="40"/> | <b>2</b> | <img width="30"/><a href="https://github.com/Lynn19950915/LeetCode_King/tree/master/Selection">點我</a><img width="30"/> | <img width="120"/> |
+| Tags | <img width="100"/>-<img width="100"/> | <a href="https://github.com/Lynn19950915/LeetCode_King/tree/master/Tags">點我</a> | |
+| 1-500 | ![](https://geps.dev/progress/4?dangerColor=ff9900)　<b>5</b> / 117 | <a href="https://github.com/Lynn19950915/LeetCode_King/blob/master/0001-0500.md">點我</a> | 🔒 x 13 |
+| 501-1000 | ![](https://geps.dev/progress/5?dangerColor=ff9900)　<b>6</b> / 121 | <a href="https://github.com/Lynn19950915/LeetCode_King/blob/master/0501-1000.md">點我</a> | 🔒 x 8 |
+| 1001-1500 | ![](https://geps.dev/progress/4?dangerColor=ff9900)　<b>4</b> / 136 | <a href="https://github.com/Lynn19950915/LeetCode_King/blob/master/1001-1500.md">點我</a> | 🔒 x 39 |
+| 1501-2000 | ![](https://geps.dev/progress/4?dangerColor=ff9900)　<b>5</b> / 130 | <a href="https://github.com/Lynn19950915/LeetCode_King/blob/master/1501-2000.md">點我</a> | 🔒 x 15 |
+| 2001-2500 | ![](https://geps.dev/progress/1?dangerColor=ff9900)　<b>1</b> / 111 | <a href="https://github.com/Lynn19950915/LeetCode_King/blob/master/1001-1500.md">點我</a> | 🔒 x 10 |

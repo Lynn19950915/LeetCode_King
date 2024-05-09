@@ -56,13 +56,13 @@
     <tr>
         <td align="center">1-500</td>
         <td align="center"><b>5</b> / 117</td>
-        <td align="center"><a href="https://github.com/Lynn19950915/LeetCode_King/blob/master/1-500.md">點我</a></td>
+        <td align="center"><a href="https://github.com/Lynn19950915/LeetCode_King/blob/master/0001-0500.md">點我</a></td>
         <td align="center">🔒 x 13</td>
     </tr>
     <tr>
         <td align="center">501-1000</td>
         <td align="center"><b>6</b> / 121</td>
-        <td align="center"><a href="https://github.com/Lynn19950915/LeetCode_King/blob/master/501-1000.md">點我</a></td>
+        <td align="center"><a href="https://github.com/Lynn19950915/LeetCode_King/blob/master/0501-1000.md">點我</a></td>
         <td align="center">🔒 x 8</td>
     </tr>
     <tr>

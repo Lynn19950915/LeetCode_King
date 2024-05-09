@@ -36,4 +36,11 @@
         <td align="center">77.0％</td>
         <td align="center"><a href="https://vocus.cc/article/6553292ffd897800013febd2">點我</a></td>
     </tr>
+    <tr>
+        <td align="center">2000</td>
+        <td align="center">Reverse Prefix of Word (反轉單詞前綴)</td>
+				<td align="center">2</td>
+        <td align="center">86.1％</td>
+        <td align="center"><a href="https://vocus.cc/article/663c3d55fd897800010a8ace">點我</a></td>
+    </tr>
 </table>

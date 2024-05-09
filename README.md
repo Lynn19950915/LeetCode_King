@@ -36,27 +36,52 @@
 <!-- 查詢方式 -->
 <table style="table-layout: fixed">
     <thead>
-        <td align="center" width="250vmax">類別</td>
-        <td align="center" width="150vmax">題數</td>
-        <td align="center" width="200vmax">連結</td>
+        <td align="center" width="175vmax">類別</td>
+        <td align="center" width="175vmax">題數</td>
+        <td align="center" width="150vmax">連結</td>
+        <td align="center" width="175vmax">備註</td>
     </thead>
-    <tr>
-        <td align="center">(推薦) 索引總冊</td>
-        <td align="center"><b>21</b></td>
-				<td align="center">
-					<a href="https://github.com/Lynn19950915/LeetCode_King/blob/master/DoneList.htm">點我</a>
-					(下載後<a href="http://htmlpreview.github.io/?https://github.com/Lynn19950915/LeetCode_King/blob/master/DoneList.htm">預覽</a>)
-				</td>
-    </tr>
     <tr>
         <td align="center">精選好題</td>
         <td align="center"><b>2</b></td>
         <td align="center"><a href="https://github.com/Lynn19950915/LeetCode_King/tree/master/Selection">點我</a></td>
+        <td align="center"></td>
     </tr>
     <tr>
         <td align="center">Tags</td>
         <td align="center">－</td>
         <td align="center"><a href="https://github.com/Lynn19950915/LeetCode_King/tree/master/Tags">點我</a></td>
+        <td align="center"></td>
+    </tr>
+    <tr>
+        <td align="center">1-500</td>
+        <td align="center"><b>5</b> / 117</td>
+        <td align="center"><a href="https://github.com/Lynn19950915/LeetCode_King/tree/master/Tags">點我</a></td>
+        <td align="center">🔒 x 13</td>
+    </tr>
+    <tr>
+        <td align="center">501-1000</td>
+        <td align="center"><b>6</b> / 121</td>
+        <td align="center"><a href="https://github.com/Lynn19950915/LeetCode_King/tree/master/Tags">點我</a></td>
+        <td align="center">🔒 x 8</td>
+    </tr>
+    <tr>
+        <td align="center">1001-1500</td>
+        <td align="center"><b>4</b> / 136</td>
+        <td align="center"><a href="https://github.com/Lynn19950915/LeetCode_King/tree/master/Tags">點我</a></td>
+        <td align="center">🔒 x 39</td>
+    </tr>
+    <tr>
+        <td align="center">1501-2000</td>
+        <td align="center"><b>5</b> / 130</td>
+        <td align="center"><a href="https://github.com/Lynn19950915/LeetCode_King/tree/master/Tags">點我</a></td>
+        <td align="center">🔒 x 15</td>
+    </tr>
+    <tr>
+        <td align="center">2001-2500</td>
+        <td align="center"><b>1</b> / 111</td>
+        <td align="center"><a href="https://github.com/Lynn19950915/LeetCode_King/tree/master/Tags">點我</a></td>
+        <td align="center">🔒 x 10</td>
     </tr>
 </table><br>
 

@@ -22,6 +22,13 @@
         <td align="center">60.4％</td>
         <td align="center"><a href="https://vocus.cc/article/6512b3e9fd89780001dfc622">點我</a></td>
     </tr>
+    <tr>
+        <td align="center">804</td>
+        <td align="center">Unique Morse Code Words (唯一摩爾斯密碼詞)</td>
+				<td align="center">3</td>
+        <td align="center">82.9％</td>
+        <td align="center"><a href="https://vocus.cc/article/667a7ae2fd897800018dc924">點我</a></td>
+    </tr>
 		<tr>
         <td align="center">1941</td>
         <td align="center">Check if All Characters Have Equal Number of Occurrences<br>(檢查是否所有字符出現次數相同)</td>
